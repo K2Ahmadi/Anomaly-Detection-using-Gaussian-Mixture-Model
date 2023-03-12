@@ -8,5 +8,3 @@ GMM can be used to detect credit card fraud by analyzing transaction data. Fraud
 
 
 Once GMM is trained, it can be used to analyze new transactions and assign probabilities of belonging to each cluster. Transactions that have low probabilities of belonging to any cluster can be flagged as potentially fraudulent and further investigated by human analysts.
-![image](https://user-images.githubusercontent.com/102554466/224518128-27854f2c-eef3-49d9-b968-2c65fcc3853c.png)
-
